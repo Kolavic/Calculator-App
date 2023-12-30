@@ -59,3 +59,4 @@ function calculateResult() {
 updateDisplay();
 
 // Commit test
+// I wrote this on the second PC to test the changes i made on master branch
